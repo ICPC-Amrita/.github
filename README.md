@@ -124,9 +124,7 @@ Environment: Linux, Windows
 
 ### 👥 **Leadership Team**
 - **🎯 Contest Director**: Mr. VIPIN PAVITHRAN
-- **👨‍💻 Student Coordinator**: [Current Student Leader]
-- **🤝 Alumni Mentor**: [Alumni Representative]
-- **📱 Communication Lead**: [Social Media Manager]
+
 
 ### 📍 **Campus Locations**
 - **🏫 Amritapuri Campus**: Regional contest site
