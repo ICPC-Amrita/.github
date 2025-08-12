@@ -38,7 +38,7 @@
 
 - 🏆 **Regional Host**: Official host for **ICPC Asia-Amritapuri Regional Contest**
 - 🌍 **World Finals Participant**: Regular participant in ICPC World Finals
-- 🎓 **Contest Director**: Mr.VIPIN PAVITHRAN serves as Regional Contest Director
+- 🎓 **Contest Director**: Mr. VIPIN PAVITHRAN serves as Regional Contest Director
 - 📍 **Multi-Campus**: Contests held at Amritapuri and Bengaluru campuses
 - 🤝 **Industry Partnership**: Collaboration with top tech companies and sponsors
 
@@ -123,7 +123,7 @@ Environment: Linux, Windows
 </div>
 
 ### 👥 **Leadership Team**
-- **🎯 Contest Director**: Mr.VIPIN PAVITHRAN
+- **🎯 Contest Director**: Mr. VIPIN PAVITHRAN
 - **👨‍💻 Student Coordinator**: [Current Student Leader]
 - **🤝 Alumni Mentor**: [Alumni Representative]
 - **📱 Communication Lead**: [Social Media Manager]
