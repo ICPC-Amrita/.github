@@ -5,7 +5,7 @@
 *The International Collegiate Programming Contest at Amrita Vishwa Vidyapeetham*
 
 [![ICPC](https://img.shields.io/badge/ICPC-World%20Finals%20Participant-1a365d?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjZmZmZmZmIi8+Cjwvc3ZnPgo=)](https://icpc.global)
-[![Teams](https://img.shields.io/badge/Active%20Teams-50+-173679?style=for-the-badge)](https://github.com/orgs/ICPC-Amrita/teams)
+[![Teams](https://img.shields.io/badge/Active%20Teams-3-173679?style=for-the-badge)](https://github.com/orgs/ICPC-Amrita/teams)
 [![Contests](https://img.shields.io/badge/Contests%20Participated-25+-2c5282?style=for-the-badge)](https://icpc.global)
 [![University](https://img.shields.io/badge/University-Amrita%20Vishwa%20Vidyapeetham-3182ce?style=for-the-badge)](https://amrita.edu)
 
