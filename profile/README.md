@@ -1,15 +1,15 @@
 <div align="center">
 
-# < ICPC@Amrita >
+# ✌, Welcome to our ICPC@Amrita Club
 
-*The International Collegiate Programming Contest at Amrita Vishwa Vidyapeetham*
+*Amrita's Own Competitive Programming Club*
 
 [![Teams](https://img.shields.io/badge/Active%20Teams-4-173679?style=for-the-badge)](https://github.com/orgs/ICPC-Amrita/teams)
 [![Contests](https://img.shields.io/badge/Contests%20Participated-25+-2c5282?style=for-the-badge)](https://icpc.global)
 [![University](https://img.shields.io/badge/University-Amrita%20Vishwa%20Vidyapeetham-3182ce?style=for-the-badge)](https://amrita.edu)
 
 <div align="center">
-  <img src="profile/Gallary/IMG-20251009-WA0033.jpg" alt="My Desktop" width="800"/>
+  <img src="/profile/Gallary/IMG-20251009-WA0033.jpg" alt="My Desktop" width="800"/>
 </div>
 
 
@@ -17,9 +17,9 @@
 
 ---
 
-## 🌟 About ICPC@Amrita
+##  About ICPC@Amrita
 
-**ICPC@Amrita** is the official competitive programming organization representing **Amrita Vishwa Vidyapeetham** in the **International Collegiate Programming Contest** - the most prestigious programming contest in the world, often called the **"Olympics of Programming"**.
+**ICPC@Amrita** is the official competitive programming Club representing **Amrita Vishwa Vidyapeetham**.
 
 ### 🎯 Our Mission
 - **🏆 Excellence in Competitive Programming**: Training teams to compete at the highest levels
@@ -33,8 +33,8 @@
 
 <div align="center">
 
-### 🌟 **Host Institution** 🌟
-*Amrita Vishwa Vidyapeetham is one of the official host sites for ICPC Asia Regional Finals*
+### **Host Institution** �
+*Amrita Vishwa Vidyapeetham is one of the official host sites for ICPC AsiaWest Amritapuri Regional Contest*
 
 </div>
 
