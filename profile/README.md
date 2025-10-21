@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✌, Welcome to our ICPC@Amrita Club
+# Welcome to our ICPC@Amrita Club,✌
 
 *Amrita's Own Competitive Programming Club*
 
