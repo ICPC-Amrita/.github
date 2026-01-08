@@ -190,7 +190,7 @@ Environment: Linux, Windows
 ---
 
 *Built with 💙 by the ICPC@Amrita Team*
-*Competitive Programming Excellence since 2010*
+*Competitive Programming Excellence since 2024*
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ICPC-Amrita.ICPC-Amrita&style=flat-square&color=1a365d)
 
